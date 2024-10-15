@@ -4,4 +4,3 @@
 # data collection 
 # data deletion
 # data addition
-# add new data
